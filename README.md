@@ -13,7 +13,7 @@ Focuses on responsive design, layout, and visual engagement.
 - **CSS3** (Flexbox, Media Queries)  
 
 ## Demo
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/13e3ba8c-7127-4eca-8e36-6b0ac384703a" />
+Homepage(./screenshots/Screenshot (197).png)
 
 ## Usage
 1. Clone repo:  
