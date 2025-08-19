@@ -18,9 +18,9 @@ Focuses on responsive design, layout, and visual engagement.
 ## Usage
 1. Clone repo:  
    ```bash
-   git clone https://github.com/yourusername/youtube-static-site.git
+   git clone https://github.com/piriyajeishree410/Youtube-design.git
 ````
 
-2. Open `index.html` in your browser.
+2. Open `youtube.html` in your browser.
 
 ---
